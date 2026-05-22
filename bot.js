@@ -28,7 +28,7 @@ const token = process.env.TOKEN;
 const bot = new TelegramBot(token);
 
 // ضع يوزر القناة هنا
-const CHANNEL_ID = '@YourChannelUsername';
+const CHANNEL_ID = '@AnesthesiaQCoronary';
 
 // ======================
 // WEBHOOK
